@@ -1,10 +1,5 @@
 # Credit Risk Analysis - Financial Data Science
 
-[![License](https://img.shields.io/badge/License-BSD_3-purple?style=for-the-badge&logo=FreeBSD)](LICENSE.md)
-![Views](https://komarev.com/ghpvc/?username=Credit-Risk-Analysis-GitHub&label=Views&style=for-the-badge&color=brightgreen)<br>
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 <br>
 
 Credit analysis is a type of financial analysis that an investor or bond portfolio manager performs on companies, governments, municipalities, or any other debt-issuing entities to measure the issuer's ability to meet its debt obligations. Credit analysis seeks to identify the appropriate level of default risk associated with investing in that particular entity's debt instruments. 
@@ -52,19 +47,12 @@ The main dataset contains the following features (from 2015 to 2020), regarding 
 - **ROE**: Return on Equity (ROE) is the measure of a company’s annual return (net income) divided by the value of its total shareholders’ equity, expressed as a percentage. <br> Alternatively, ROE can also be derived by dividing the firm’s dividend growth rate by its earnings retention rate
 - **TAsset**: Total Assets, most commonly used in the context of a corporation, are defined as the assets owned by the entity that has an economic value whose benefits can be derived in the future
 
-Some other accessories datasets have been downloaded from [Kaggle](https://www.kaggle.com/) to extract other useful information to gain more effective insights.
-
-## Where the companies are placed?
-In the following figure you can get an idea on where the companies inside the main dataset are geographically located.
-
-<img src="./presentation/img/companies-locs.png"><br>
 
 # Contact
 In case you need some further details you can contact directly me. <br><br>
-<a href="mailto:amatofrancesco99@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:yashbishnoi95@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ***
 
 <br>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
