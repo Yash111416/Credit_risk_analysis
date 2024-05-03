@@ -9,7 +9,7 @@ To judge a company’s ability to pay its debt, banks, bond investors, and analy
 The outcome of the credit analysis will determine what risk rating to assign the debt issuer or borrower. The risk rating, in turn, determines whether to extend credit or loan money to the borrowing entity and, if so, the amount to lend. <br><br>
 
 If you want to see the presentation, here's the link:
-- [.pdf presentation](/presentation/presentation.pdf)
+- [.pdf presentation](/presentation/credit-risk-analysis-presentation.pdf)
 
 # Why credit risk is so relevant in finance?
 Financial institutions used credit risk analysis models to determine the probability of default of a potential borrower. 
